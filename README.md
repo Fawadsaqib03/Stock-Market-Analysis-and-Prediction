@@ -72,7 +72,7 @@ A custom employee dataset was created with features like Years of Experience and
 
 3. Open the notebook:
    ```bash
-   jupyter notebook BDA_Project.ipynb
+   jupyter notebook Stock Market Analysis and Prediction using Python.ipynb
    ```
 
 4. Run all cells from top to bottom.
