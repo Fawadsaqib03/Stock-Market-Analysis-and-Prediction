@@ -219,12 +219,6 @@ This project is intended for **academic and non-commercial use only**.
 
 ---
 
-## 📝 License
- 
-This project is intended for **academic and non-commercial use only**.
- 
----
-
 ## 📧 Author
 
 **Fawad Saqib**  
